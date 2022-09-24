@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤ Sophia v3 ❤</b></h1>
+<h1 align="center"><b>❤ Sophia v3 ACO Team Bot❤</b></h1>
 
 
 <p align="center"><a href="https://t.me/SophiaSupport_Official"><img src="https://telegra.ph/file/f6afa44d010598c379503.jpg" width="400"></a></p>
@@ -18,17 +18,16 @@
 </p>
 
 
- <b> ⭐️ Thanks to everyone who starred Sophia, That is the greatest pleasure we have ! </b> 
+ <b> ⭐️ Thanks to everyone who starred Sophia v3, That is the greatest pleasure we have ! </b> 
 
 
 
-## Avaiilable on Telegram as [@SophiaSLBot](https://t.me/sophiaslbot)
+## Avaiilable on Telegram as [@Sophiav3Bot](https://t.me/Sophia_v3_acoteamBot)
 
 ### Video Tutorial:
-Complete guide on deploying @SophiaSLBot's clone on Heroku.
+Complete guide on deploying @Sophia_v3_acoteamBot's clone on Heroku.
 
-🙋‍♂️ Video by [Dihan Randila](https://youtu.be/Yyw2TfwQTSg) ☆
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Yyw2TfwQTSg)
+🙋‍♂️
 
 ### Deploy To Heroku</h4>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/Sophiabot)
